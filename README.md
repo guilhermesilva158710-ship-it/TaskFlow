@@ -28,3 +28,5 @@ python src/main.py
 
 ## Mudança de Escopo
 Foi adicionada a funcionalidade de filtro de tarefas por status para melhorar a organização do sistema.
+
+Projeto acadêmico de Engenharia de Software.
